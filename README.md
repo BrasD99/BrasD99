@@ -1,9 +1,17 @@
-### Hi there 👋
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brasd99.brasd99)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-Most used languages on GitHub:
+## Welcome 👋
+I'm Denis, a 24 years old developer from Russia 🇷🇺
+
+- 👨‍💻 Currently working at [MTS Digital](https://mts-digital.ru/)
+- 💼 I love server development and use .NET
+- 🏫 Professional mathematical and ML engineer education
+- 👨‍🏫 Here you will find many of my personal projects, a significant part of which is devoted to the use of neural networks on practical tasks!
+
+You can freely discuss any project with me via any contact link!
+
+## Most used languages on GitHub:
 
 <div align="center" style="columns:3;">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasd99&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook" />

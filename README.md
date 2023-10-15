@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align="center">
-  <img src="https://i.ibb.co/L0Cz56Z/cat.png" width="30%" height="auto" />
+  <img src="https://i.ibb.co/3zzHnYL/cat.png" width="30%" height="auto" />
 </p>
 
 ## Welcome 👋

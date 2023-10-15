@@ -1,6 +1,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brasd99.brasd99)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+<p align="center">
+  <img src="https://i.ibb.co/L0Cz56Z/cat.png" width="30%" height="auto" />
+</p>
+
 ## Welcome 👋
 I'm Denis, a 24 years old developer from Russia 🇷🇺
 

@@ -19,6 +19,5 @@ You can freely discuss any project with me via any contact link!
 
 <div align="center" style="columns:3;">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasd99&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook" />
-  <img width="60" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=brasd99&show_icons=true&theme=transparent&hide_border=true" />
 </div>

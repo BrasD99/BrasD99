@@ -17,7 +17,8 @@ You can freely discuss any project with me via any contact link!
 
 ## Most used languages on GitHub:
 
-<div align="center" style="columns:3;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasd99&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=brasd99&show_icons=true&theme=transparent&hide_border=true" />
+<div style="display: flex; justify-content: center;">
+  <img style="flex: 1; max-width: 50%;" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasd99&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook" />
+  <img style="flex: 1; max-width: 50%;" height="200" src="https://github-readme-stats.vercel.app/api?username=brasd99&show_icons=true&theme=transparent&hide_border=true" />
 </div>
+

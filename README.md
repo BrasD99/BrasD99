@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=brasd99.brasd99)
+![](https://komarev.com/ghpvc/?username=brasd99&color=46ae8f)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <p align="center">
